@@ -1,4 +1,0 @@
-Model,Accuracy
-Logistic Regression,0.51125
-Random Forest (Baseline),0.50625
-Random Forest (Tuned),0.49125

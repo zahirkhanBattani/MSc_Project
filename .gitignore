@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw & processed)
+data/
+*.csv
+*.xlsx
+
+# Models
+*.pkl
+*.joblib
+
+# Environment
+.env
+
+# Images / plots (generated)
+*.png
+*.jpg
+*.jpeg
+
+# XGBoost raw model dumps
+*.model
+
+# Notebook model artifacts folder
+AI_Risk_Assessor/notebooks/models/
